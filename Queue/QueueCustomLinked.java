@@ -1,4 +1,3 @@
-package Queue;
 class Node {
     int data;
     Node next;
@@ -62,7 +61,7 @@ class CustomQueue {
     }
 }
 
-public class custom {
+public class QueueCustomLinked{
     public static void main(String[] args) {
         CustomQueue queue = new CustomQueue();
         queue.enqueue(10);

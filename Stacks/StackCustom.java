@@ -32,7 +32,7 @@ class MyStack {
     }
 }
 
-public class Main {
+public class StackCustom {
     public static void main(String[] args) {
         MyStack stack = new MyStack(5);
 

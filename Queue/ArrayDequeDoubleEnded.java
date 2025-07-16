@@ -1,7 +1,6 @@
-package Queue;
 import java.util.ArrayDeque;
 
-public class ArrayDeque1{
+public class ArrayDeque{
     public static void main(String[] args) {
         ArrayDeque<Integer> deque = new ArrayDeque<>();
 
